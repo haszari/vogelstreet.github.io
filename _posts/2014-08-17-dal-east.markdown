@@ -2,7 +2,11 @@
 layout: post
 title:  "Dal East"
 date:   2014-08-17 13:30:12
+permalink: /DALeast/
 categories: contributor
+tags:
+- artist
+- contributor
 ---
 
 ![Abiding the broken heart](http://media.withtank.com/416a309d83/daleast-abiding-in-the-broken-heartmalaga-spain2013p.jpg)

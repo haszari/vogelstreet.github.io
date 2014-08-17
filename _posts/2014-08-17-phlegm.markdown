@@ -2,7 +2,11 @@
 layout: post
 title:  "Phlegm"
 date:   2014-08-17 13:30:12
+permalink: /phlegm/
 categories: contributor
+tags:
+- artist
+- contributor
 ---
 
 ![Totems](http://1.bp.blogspot.com/-LQfM9DVBn2Q/U90r0coX1mI/AAAAAAAACyA/2UFaZKOKbnA/s1600/18+copy.jpg)
