@@ -47,9 +47,21 @@ a:visited { color: #205caa; }
   background-color: white;
 }
 
+.site-title-wrapper {
+  margin: auto;
+  max-width: 80%;
+}
+
 .site-title,
 .site-title:hover,
 .site-title:visited {
+  background-image: url(../assets/dudstreetart_white.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 220px;
+
   display: block;
   color: #333;
   font-size: 26px;
