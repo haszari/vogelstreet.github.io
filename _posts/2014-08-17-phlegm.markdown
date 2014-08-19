@@ -4,12 +4,21 @@ title:  "Phlegm"
 date:   2014-08-17 13:30:12
 permalink: /phlegm/
 categories: contributor
+images: 
+  - title: Totems
+    url: "http://1.bp.blogspot.com/-LQfM9DVBn2Q/U90r0coX1mI/AAAAAAAACyA/2UFaZKOKbnA/s1600/18+copy.jpg"
+  - title: "Second Beach Perch"
+    url: "http://3.bp.blogspot.com/-_wasyZIcjfc/U2srikXwNDI/AAAAAAAACsU/ZFMOCb5fWKc/s1600/P1010694.JPG"
+  - title: "Totems Detail"
+    url: "http://1.bp.blogspot.com/-OKPZIuB3gnI/U90sEJwwk7I/AAAAAAAACzA/gFs40QtO88k/s1600/8+copy.jpg"
+  - title: "Malmo"
+    url: "http://3.bp.blogspot.com/-LqatXpavFAU/U6Qe8ccG6MI/AAAAAAAACvo/theFH_0v87Y/s1600/0.JPG"
+  
+
 tags:
 - artist
 - contributor
 ---
-
-![Totems](http://1.bp.blogspot.com/-LQfM9DVBn2Q/U90r0coX1mI/AAAAAAAACyA/2UFaZKOKbnA/s1600/18+copy.jpg)
 
 [Phlegm](http://www.phlegmcomics.com) is returning to Dunedin for the festival.
 

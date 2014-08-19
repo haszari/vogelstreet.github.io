@@ -203,6 +203,27 @@ a:visited { color: #205caa; }
   max-width: 100%;
 }
 
+.post-content .post-image {
+  background-size: cover;
+  background-position: center;
+  display: inline-block;
+  margin: 4px 0;
+}
+
+.post-content .post-image:nth-child(3n+1) {
+  width: 100%;
+  height: 400px;
+}
+.post-content .post-image:nth-child(3n+2) {
+  width: 37%;
+  height: 150px;
+}
+.post-content .post-image:nth-child(3n+3){
+  width: 61%;
+  height: 150px;
+  float: right;
+}
+
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
@@ -373,6 +394,16 @@ a:visited { color: #205caa; }
 }
 
 @media screen and (max-width: 600px) {
+
+  .post-content .post-image.size100 {
+    height: 200px;
+  }
+  .post-content .post-image.size30 {
+    height: 80px;
+  }
+  .post-content .post-image.size70 {
+    height: 80px;
+  }
 
   .wrap { padding: 0 12px; }
 
