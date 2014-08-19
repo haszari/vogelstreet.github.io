@@ -7,10 +7,17 @@ categories: contributor
 tags:
 - artist
 - contributor
+images: 
+  - title: "Abiding the broken heart"
+    url: "http://media.withtank.com/416a309d83/daleast-abiding-in-the-broken-heartmalaga-spain2013p.jpg"
+  - title: "The Cuts"
+    url: "http://media.withtank.com/65fe23f217/daleast-the_cuts-stavanger-norway2013o.jpg"
+  - title: "TKOF"
+    url: "http://media.withtank.com/c2778ec9a1/daleast-tkofrochester-usa2013rphoto-by-mark-deff.jpg"
+  - title: "Opacification"
+    url: "http://media.withtank.com/97ea1f85c2/daleast-opacification-ink_-acrylic_tea-on-canvas76x61cm2012.jpg"
 ---
 
-![Abiding the broken heart](http://media.withtank.com/416a309d83/daleast-abiding-in-the-broken-heartmalaga-spain2013p.jpg)
-
-Chinese-born and now living in South Africa, [DALeast](http://www.daleast.com) has pieces on walls around the globe. Much of his work portrays wild animals hunting prey, often showing them in motion. 
+Chinese-born, now living in South Africa, [DALeast](http://www.daleast.com) has pieces on walls around the globe. Much of his work portrays wild animals hunting prey, often showing them in motion. 
 
 
