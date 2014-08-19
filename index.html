@@ -16,7 +16,15 @@ layout: default
     {% for post in site.posts %}
       <li>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="post-link artist-link" 
+          href="{{ post.url | prepend: site.baseurl }}" 
+          {% if post.images.size > 0 %}
+            style='background-image: url({{ post.images[0].url }});'
+          {% endif %}
+          >
+          {{ post.title }}
+          </a>
+          <div class="post-image" ></div>
       </li>
     {% endfor %}
   </ul>
