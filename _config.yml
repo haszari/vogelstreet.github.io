@@ -5,6 +5,7 @@ description: "All about the Dunedin Street Art Festival, a yearly celebration of
 baseurl: ""
 url: "http://dudstreetfest.github.io"
 twitter_username: dudstreetfest
+facebook_username: dunedinstreetart
 
 # Build settings
 markdown: kramdown
