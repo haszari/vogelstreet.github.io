@@ -1,10 +1,10 @@
 # Site settings
-title: Dunedin Street Art Festival
-email: dudstreetfest@cartoonbeats.com
-description: "All about the Dunedin Street Art Festival: a yearly celebration of street culture in the glorious warehouse precinct."
+title: "Vogel Street, Dunedin NZ"
+email: vogelstreet@cartoonbeats.com
+description: "Vogel Street Party & Dunedin Street Art Festival Info"
 baseurl: ""
-url: "http://dudstreetfest.github.io"
-twitter_username: dudstreetfest
+url: "http://vogelstreet.github.io"
+twitter_username: vogelstreet
 facebook_username: dunedinstreetart
 
 # Build settings
