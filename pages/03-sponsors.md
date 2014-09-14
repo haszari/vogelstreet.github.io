@@ -11,3 +11,5 @@ Smart Lift
 Frucor / V
 
 etc
+
+{% include sponsor_posts.html %}
