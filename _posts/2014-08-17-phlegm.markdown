@@ -3,9 +3,9 @@ layout: post
 title:  "Phlegm"
 date:   2014-08-17 13:30:12
 permalink: /phlegm/
-categories: contributor
+category: street_artist
 tags:
-- artist
+- streetart
 - contributor
 images: 
   - title: Totems

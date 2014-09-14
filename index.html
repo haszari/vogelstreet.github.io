@@ -4,29 +4,67 @@ layout: default
 
 <div class="home">
 
-  <ul class="posts">
-  {% for page in site.pages %}
-      {% if page.title == "About" %}<a class="post-link" href="{{ page.url | prepend: site.baseurl }}">Festival Information</a>{% endif %}
-    {% endfor %}
-  </ul>
-  
-
-  <h1>Artists</h1>
+  <h1>Sponsors</h1>
 
   <ul class="posts">
     {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link artist-link" 
-          href="{{ post.url | prepend: site.baseurl }}" 
-          {% if post.images.size > 0 %}
-            style='background-image: url({{ post.images[0].url }});'
-          {% endif %}
-          >
-          {{ post.title }}
-          </a>
-          <div class="post-image" ></div>
-      </li>
+      {% if post.category == 'sponsor' %}
+        <li>
+          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <a class="post-link artist-link" 
+            href="{{ post.url | prepend: site.baseurl }}" 
+            {% if post.images.size > 0 %}
+              style='background-image: url({{ post.images[0].url }});'
+            {% endif %}
+            >
+            {{ post.title }}
+            </a>
+            <div class="post-image" ></div>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h1>Street Art Festival Artists</h1>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% if post.category == 'street_artist' %}
+        <li>
+          {{ post.weight }}
+          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <a class="post-link artist-link" 
+            href="{{ post.url | prepend: site.baseurl }}" 
+            {% if post.images.size > 0 %}
+              style='background-image: url({{ post.images[0].url }});'
+            {% endif %}
+            >
+            {{ post.title }}
+            </a>
+            <div class="post-image" ></div>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h1>Vogel Street Party Contributors</h1>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      {% if post.category == 'party_contributor' %}
+        <li>
+          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <a class="post-link artist-link" 
+            href="{{ post.url | prepend: site.baseurl }}" 
+            {% if post.images.size > 0 %}
+              style='background-image: url({{ post.images[0].url }});'
+            {% endif %}
+            >
+            {{ post.title }}
+            </a>
+            <div class="post-image" ></div>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 
