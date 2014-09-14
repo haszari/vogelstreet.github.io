@@ -9,4 +9,4 @@ images:
     url: "/assets/posts/sponsors/Strawberry-Sound-logo.JPG"
 ---
 
-Thanks Strawberry Sound!
+Thanks [Strawberry Sound](http://www.strawberrysound.co.nz)!
