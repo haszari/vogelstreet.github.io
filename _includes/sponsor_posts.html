@@ -1,18 +1,15 @@
 <h1>Sponsors</h1>
 
-<ul class="posts">
+<ul class="posts sponsors">
 {% for post in site.posts %}
   {% if post.category == 'sponsor' %}
     <li>
-      {{ post.weight }}
-      <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
       <a class="post-link artist-link" 
         href="{{ post.url | prepend: site.baseurl }}" 
         {% if post.images.size > 0 %}
           style='background-image: url({{ post.images[0].url }});'
         {% endif %}
         >
-        {{ post.title }}
         </a>
     </li>
   {% endif %}

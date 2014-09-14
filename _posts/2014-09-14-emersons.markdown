@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Emerson's"
+date:   2014-09-14 15:30:12
+permalink: /emersons/
+category: sponsor
+images: 
+  - title: "Emerson's"
+    url: "/assets/posts/sponsors/Emersons-Logo-trans.PNG"
+---
+
+Iconic craft brewer [Emerson's](http://www.emersons.co.nz) has come on board as flagship sponsor of the [Street Art Festival](/streetartfest/). Thanks Emerson's!
+
