@@ -156,6 +156,12 @@ a:visited { color: #205caa; }
   color: #828282;
 }
 
+.footer-col-3 p {
+  /* this is the mini footer "site by" */
+  text-align: right;
+  font-size: 12px;
+}
+
 .github-icon-svg,
 .twitter-icon-svg {
   display: inline-block;
