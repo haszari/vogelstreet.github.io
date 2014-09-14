@@ -25,27 +25,7 @@ layout: default
     {% endfor %}
   </ul>
 
-  <h1>Street Art Festival Artists</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      {% if post.category == 'street_artist' %}
-        <li>
-          {{ post.weight }}
-          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <a class="post-link artist-link" 
-            href="{{ post.url | prepend: site.baseurl }}" 
-            {% if post.images.size > 0 %}
-              style='background-image: url({{ post.images[0].url }});'
-            {% endif %}
-            >
-            {{ post.title }}
-            </a>
-            <div class="post-image" ></div>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ul>
+  {% include street_art_posts.html %}
 
   <h1>Vogel Street Party Contributors</h1>
 

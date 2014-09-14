@@ -183,36 +183,6 @@ a:visited { color: #205caa; }
   margin-bottom: 25px;
 }
 
-.posts { list-style-type: none; }
-
-.posts li { margin-bottom: 30px; }
-
-.posts .post-link {
-  font-size: 24px;
-  letter-spacing: -1px;
-  line-height: 1;
-}
-
-.posts .post-link.artist-link {
-  background-color: #202411;
-
-  background-size: cover;
-  background-position: center;
-
-  display: inline-block;
-  height: 100px;
-  width: 100%;
-
-  color: #fff;
-  text-shadow: 2px 2px #000;
-}
-
-.posts .post-date {
-  display: none;
-  font-size: 15px;
-  color: #818181;
-}
-
 .rss-subscribe {
   display: none;
 }
@@ -338,6 +308,45 @@ a:visited { color: #205caa; }
 }
 
 .post pre.terminal code { background-color: #333; }
+
+/* posts list styles (overrides post list styles as is templated into posts) */
+/* ----------------------------------------------------------*/
+
+.posts { list-style-type: none; }
+
+.posts li { margin-bottom: 30px; }
+
+/* override normal list styling for posts list */
+ul.posts, ol.posts  { 
+  margin: 0; 
+  padding-left: 0; 
+}
+
+.posts .post-link {
+  font-size: 24px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+
+.posts .post-link.artist-link {
+  background-color: #202411;
+
+  background-size: cover;
+  background-position: center;
+
+  display: inline-block;
+  height: 100px;
+  width: 100%;
+
+  color: #fff;
+  text-shadow: 2px 2px #000;
+}
+
+.posts .post-date {
+  display: none;
+  font-size: 15px;
+  color: #818181;
+}
 
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
