@@ -334,7 +334,7 @@ a:visited { color: #205caa; }
 
 .posts { list-style-type: none; }
 
-.posts li { margin-bottom: 10px; }
+.posts li { margin-bottom: 20px; }
 
 /* override normal list styling for posts list */
 ul.posts, ol.posts  { 
@@ -360,6 +360,12 @@ ul.posts, ol.posts  {
 
   color: #fff;
   text-shadow: 2px 2px #000;
+}
+
+.posts .post-link.artist-link span {
+  background: rgb(35, 35, 35);
+  border-radius: 2px;
+  padding: 8px
 }
 
 .posts .post-date {
