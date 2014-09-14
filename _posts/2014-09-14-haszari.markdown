@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title:  "Haszari"
 date:   2014-09-14 13:30:12
 permalink: /haszari/
