@@ -9,7 +9,6 @@
       </a>
     </div>
 
-    <!-- hide menu for now, about is linked from middle of front page
     <nav class="site-nav">
       <a href="#" class="menu-icon">
         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -22,13 +21,23 @@
             c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
         </svg>
       </a>
+
       <div class="trigger">
-        {% for page in site.pages %}
+      <!-- auto-generate menu-->
+        {% for page in site.pages | sort:'name' %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
+      
+      <!-- static menu
+        <a class="page-link primary" href="{{ '/party' | prepend: site.baseurl }}">Vogel Street Party</a>
+        <a class="page-link primary" href="{{ '/streetart' | prepend: site.baseurl }}">Street Art Festival</a>
+
+        <a class="page-link secondary" href="{{ '/sponsors' | prepend: site.baseurl }}">Sponsors</a>
+        <a class="page-link secondary" href="{{ '/artists' | prepend: site.baseurl }}">Artists</a>
+        <a class="page-link secondary" href="{{ '/contributors' | prepend: site.baseurl }}">Contributors</a>
+         -->
       </div>
     </nav>
-  -->
   </div>
 
 </header>
