@@ -408,7 +408,12 @@ a:visited { color: #205caa; }
 /* ----------------------------------------------------------*/
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 799px) {
+
+  .site-nav {
+    width: 280px;
+    font-size: 16px;
+  }
 
   .footer-col-1 { width: 50%; }
 
@@ -444,15 +449,11 @@ a:visited { color: #205caa; }
   .wrap { padding: 0 12px; }
 
   .site-nav {
-    position: fixed;
+    float: none;
+/*    position: fixed;
     z-index: 10;
     top: 14px; right: 8px;
-    background-color: white;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    border: 1px solid #e8e8e8;
-  }
+*/  }
 
   .site-nav .menu-icon {
     display: block;
@@ -470,7 +471,8 @@ a:visited { color: #205caa; }
     clear: both;
     margin-bottom: 5px;
     display: none;
-  }
+    background-color: white;
+}
 
   .site-nav:hover .trigger { display: block; }
 
