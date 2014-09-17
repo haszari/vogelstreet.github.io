@@ -59,7 +59,7 @@ a:visited { color: #205caa; }
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
   background-color: black;
-  background-image: url(../assets/vogelend.jpg);
+  background-image: url(../assets/vogelandbond-bright-banner.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -76,7 +76,7 @@ a:visited { color: #205caa; }
 .site-title,
 .site-title:hover,
 .site-title:visited {
-  background-image: url(../assets/vogelandbond-dark.png);
+  background-image: url(../assets/vogelandbond.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -111,7 +111,8 @@ a:visited { color: #205caa; }
 
 .site-nav .page-link {
   margin-left: 30px;
-  color: #FDFFF2;
+  /*color: #FDFFF2;*/
+  color: #040506;
   white-space: nowrap;
 }
 
