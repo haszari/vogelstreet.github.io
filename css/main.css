@@ -58,7 +58,8 @@ a:visited { color: #205caa; }
   border-top: 5px solid #333;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
-  background-color: black;
+  /*background-color: black;*/
+  background-color: white;
   background-image: url(../assets/vogelandbond-bright-banner.png);
   background-size: cover;
   background-repeat: no-repeat;
