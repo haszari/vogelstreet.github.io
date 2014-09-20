@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Dal East"
-date:   2014-08-31
 permalink: /DALeast/
 category: street_artist
 images: 
