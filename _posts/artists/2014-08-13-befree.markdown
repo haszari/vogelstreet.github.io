@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Jon Thom"
-permalink: /jonthom/
+title:  "Be Free"
+permalink: /befree/
 category: street_artist
 tags:
 - streetart
