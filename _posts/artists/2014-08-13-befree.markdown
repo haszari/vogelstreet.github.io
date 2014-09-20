@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Jon Thom"
+permalink: /jonthom/
+category: street_artist
+tags:
+- streetart
+- contributor
+images: 
+  - url: "/assets/posts/befree/a.jpg"
+  - url: "/assets/posts/befree/b.jpg"
+  - url: "/assets/posts/befree/c.jpg"
+---
+
+Be Free creates architectural interventions in Melbourne, Australia. Characterised by the use of bright colours, playing cards and a young girl with stripy socks and sneakers, Be Free’s innovative and fresh take on mural art provides a visually exciting and playful addition to the street art scene.
