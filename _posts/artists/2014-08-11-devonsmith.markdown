@@ -12,4 +12,4 @@ images:
   - url: "/assets/posts/devonsmith/witch.jpg"
 ---
 
-A local Dunedin tattoo and illustrative artist, Devon Smith creates hauntingly beautiful images of female empowerment. Coupled with personified animals and an underlying sense of disquiet, Smith’s work is both charming and captivating.
+A local Dunedin tattoo and illustrative artist, [Devon Smith](http://wp.devonsmith.co.nz) creates hauntingly beautiful images of female empowerment. Coupled with personified animals and an underlying sense of disquiet, Smith’s work is both charming and captivating.

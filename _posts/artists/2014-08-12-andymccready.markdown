@@ -12,4 +12,4 @@ images:
   - url: "/assets/posts/andymccready/Blue-Blooded-lower-res1.jpg"
 ---
 
-Andy McCready’s whimsical yet slightly ominous paintings and drawings are a quirky addition to Dunedin’s ‘lowbrow’ contemporary art scene. Her distinctive acrylic portraits on board are characterised by striking female figures complete with coiffed hair and tattoos, each with their own story to tell.
+[Andy McCready’s](http://www.andy-mccready.com) whimsical yet slightly ominous paintings and drawings are a quirky addition to Dunedin’s ‘lowbrow’ contemporary art scene. Her distinctive acrylic portraits on board are characterised by striking female figures complete with coiffed hair and tattoos, each with their own story to tell.
