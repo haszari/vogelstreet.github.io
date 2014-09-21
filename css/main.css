@@ -381,14 +381,14 @@ ul.posts, ol.posts  {
 
 .posts.sponsors li {
   display: inline-block;
-  width: 26%;
+  width: 22%;
   margin: 10px; 
 }
 
 .posts.sponsors .post-link.artist-link {
   background-size: contain;
   background-repeat: no-repeat;
-  height: 150px;
+  height: 110px;
 }
 
 /* Syntax highlighting styles */
