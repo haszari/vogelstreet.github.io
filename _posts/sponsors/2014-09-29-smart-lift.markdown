@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Smart Lift"
-date:   2014-09-16 15:00:12
 permalink: /smartlift/
 category: sponsor
 images: 

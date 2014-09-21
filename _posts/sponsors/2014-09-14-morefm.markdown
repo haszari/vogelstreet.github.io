@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "More FM"
-date:   2014-09-12 15:30:12
 permalink: /morefm/
 category: sponsor
 images: 

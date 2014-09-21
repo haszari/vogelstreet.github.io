@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Strawberry Sound"
-date:   2014-09-14 15:30:12
 permalink: /strawberrysound/
 category: sponsor
 images: 

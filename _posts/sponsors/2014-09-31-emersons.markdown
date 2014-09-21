@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Emerson's"
-date:   2014-09-16 15:30:12
 permalink: /emersons/
 category: sponsor
 images: 

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Remax"
+permalink: /remax/
+category: sponsor
+images: 
+  - url: "/assets/posts/sponsors/remax.jpg"
+---
+
+Thanks [Remax](http://www.remax.co.nz)!

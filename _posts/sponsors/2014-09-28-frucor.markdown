@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Frucor"
-date:   2014-09-15 15:30:12
 permalink: /frucor/
 category: sponsor
 images: 
