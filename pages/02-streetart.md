@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Street Art Festival
+title: Dunedin Street Art Festival
 permalink: /streetartfest/
 ---
 
