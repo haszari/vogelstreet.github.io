@@ -1,12 +1,10 @@
 ---
-published: false
 layout: post
-title:  "More FM"
-permalink: /morefm/
+title:  "Dunedin City Council"
+permalink: /dcc/
 category: sponsor
 images: 
-  - title: "More FM"
-    url: "/assets/posts/sponsors/morefmlogo.jpg"
+  - url: "/assets/posts/sponsors/dcc-main-logo.png"
 ---
 
-Thanks [More FM](http://www.morefm.co.nz)!
+Thanks [DCC](http://www.dunedin.govt.nz)!
