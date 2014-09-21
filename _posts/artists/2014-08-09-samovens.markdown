@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Sam Ovens"
+permalink: /samovens/
+category: street_artist
+tags:
+- streetart
+- contributor
+---
+
+Sam Ovens is known for his challenging and provocative artworks, often imbued with political and social critiques. His somewhat cynical style showcases elements of pop art, anti-art and satire, coupled with inspiration from punk rock and heavy metal circles in New Zealand.
