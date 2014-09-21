@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Aurora Energy"
+permalink: /aurora/
+category: sponsor
+images: 
+  - url: "/assets/posts/sponsors/aurora.jpg"
+---
+
+Thanks [Aurora](http://www.auroraenergy.co.nz)!
