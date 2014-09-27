@@ -3,6 +3,7 @@ layout: post
 title:  "DSpace"
 permalink: /dspace/
 category: sponsor
+class: dill
 images: 
   - url: "/assets/posts/sponsors/dspace.png"
 ---

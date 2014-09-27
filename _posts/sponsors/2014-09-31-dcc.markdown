@@ -3,6 +3,7 @@ layout: post
 title:  "Dunedin City Council"
 permalink: /dcc/
 category: sponsor
+class: broccoli
 images: 
   - url: "/assets/posts/sponsors/dcc-main-logo.png"
 ---

@@ -3,6 +3,7 @@ layout: post
 title:  "Hirepool"
 permalink: /hirepool/
 category: sponsor
+class: broccoli
 images: 
   - url: "/assets/posts/sponsors/hirepool.jpg"
 ---

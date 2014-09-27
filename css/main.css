@@ -381,14 +381,27 @@ ul.posts, ol.posts  {
 
 .posts.sponsors li {
   display: inline-block;
+}
+.posts.sponsors li.broccoli {
   width: 22%;
   margin: 10px; 
+}
+.posts.sponsors li.carrot,
+.posts.sponsors li.dill {
+  width: 14%;
+  margin: 9px; 
 }
 
 .posts.sponsors .post-link.artist-link {
   background-size: contain;
   background-repeat: no-repeat;
+}
+.posts.sponsors li.broccoli .post-link.artist-link {
   height: 110px;
+}
+.posts.sponsors li.carrot .post-link.artist-link,
+.posts.sponsors li.dill .post-link.artist-link {
+  height: 70px;
 }
 
 /* Syntax highlighting styles */

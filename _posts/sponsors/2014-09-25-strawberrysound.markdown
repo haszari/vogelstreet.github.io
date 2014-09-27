@@ -3,6 +3,7 @@ layout: post
 title:  "Strawberry Sound"
 permalink: /strawberrysound/
 category: sponsor
+class: broccoli
 images: 
   - title: "Strawberry Sound"
     url: "/assets/posts/sponsors/Strawberry-Sound-logo.JPG"

@@ -3,6 +3,7 @@ layout: post
 title:  "Mixbit"
 permalink: /mixbit/
 category: sponsor
+class: broccoli
 images: 
   - url: "/assets/posts/sponsors/mixbit.png"
 ---

@@ -3,6 +3,7 @@ layout: post
 title:  "Carousel"
 permalink: /carousel/
 category: sponsor
+class: dill
 images: 
   - url: "/assets/posts/sponsors/Carousel_Logo.png"
 ---

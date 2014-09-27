@@ -3,6 +3,7 @@ layout: post
 title:  "Emerson's"
 permalink: /emersons/
 category: sponsor
+class: broccoli
 images: 
   - title: "Emerson's"
     url: "/assets/posts/sponsors/Emersons-Logo-trans.PNG"

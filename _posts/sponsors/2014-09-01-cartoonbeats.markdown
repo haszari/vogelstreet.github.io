@@ -1,12 +1,12 @@
 ---
 published: false
 layout: post
-title:  "More FM"
-permalink: /morefm/
+title:  "Cartoon Beats"
+permalink: /cartoonbeats/
 category: sponsor
+class: dill
 images: 
-  - title: "More FM"
-    url: "/assets/posts/sponsors/morefmlogo.jpg"
+  - url: "/assets/posts/sponsors/CartoonBeatsLogo+URL.png"
 ---
 
-Thanks [More FM](http://www.morefm.co.nz)!
+Thanks [cartoonbeats](http://cartoonbeats.com)!

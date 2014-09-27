@@ -3,6 +3,7 @@ layout: post
 title:  "Remax"
 permalink: /remax/
 category: sponsor
+class: carrot
 images: 
   - url: "/assets/posts/sponsors/remax.jpg"
 ---

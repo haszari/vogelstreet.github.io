@@ -3,6 +3,7 @@ layout: post
 title:  "More FM"
 permalink: /morefm/
 category: sponsor
+class: broccoli
 images: 
   - title: "More FM"
     url: "/assets/posts/sponsors/morefmlogo.jpg"

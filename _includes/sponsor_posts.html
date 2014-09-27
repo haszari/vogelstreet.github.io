@@ -1,7 +1,7 @@
 <ul class="posts sponsors">
 {% for post in site.posts %}
   {% if post.category == 'sponsor' %}
-    <li>
+    <li class="{{ post.class }}">
       <a class="post-link artist-link" 
         href="{{ post.url | prepend: site.baseurl }}" 
         {% if post.images.size > 0 %}

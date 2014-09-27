@@ -3,6 +3,7 @@ layout: post
 title:  "Aurora Energy"
 permalink: /aurora/
 category: sponsor
+class: carrot
 images: 
   - url: "/assets/posts/sponsors/aurora.jpg"
 ---

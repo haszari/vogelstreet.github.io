@@ -3,6 +3,7 @@ layout: post
 title:  "Frucor"
 permalink: /frucor/
 category: sponsor
+class: broccoli
 images: 
   - title: "Frucor"
     url: "/assets/posts/sponsors/frucor-logo.png"

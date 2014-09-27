@@ -3,6 +3,7 @@ layout: post
 title:  "Smart Lift"
 permalink: /smartlift/
 category: sponsor
+class: broccoli
 images: 
   - title: "Smart Lift"
     url: "/assets/posts/sponsors/smart-lift-logo.png"
