@@ -462,6 +462,13 @@ ul.posts, ol.posts  {
 
 @media screen and (max-width: 799px) {
 
+  .site-title,
+  .site-title:hover,
+  .site-title:visited {
+    width: 184px;
+    height: 130px;
+  }
+
   .site-nav {
     width: 280px;
     font-size: 16px;
