@@ -564,7 +564,9 @@ ul.posts, ol.posts  {
   .post-content ul,
   .post-content ol { padding-left: 10px; }
 
-  .posts.sponsors li {
+  .posts.sponsors li.broccoli,
+  .posts.sponsors li.carrot,
+  .posts.sponsors li.dill, {
     display: block;
     width: 100%;
   }
