@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Mixbit"
+permalink: /mixbit/
+category: sponsor
+images: 
+  - url: "/assets/posts/sponsors/mixbit.png"
+---
+
+Thanks [Mixbit](http://mixbit.com)!

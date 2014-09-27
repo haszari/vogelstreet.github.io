@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Resene"
+permalink: /resene/
+category: sponsor
+images: 
+  - url: "/assets/posts/sponsors/resene.jpg"
+---
+
+Thanks [Resene](http://www.resene.co.nz)!

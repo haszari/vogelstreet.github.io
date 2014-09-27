@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "DSpace"
+permalink: /dspace/
+category: sponsor
+images: 
+  - url: "/assets/posts/sponsors/dspace.png"
+---
+
+Thanks [DSpace](http://dspace.org.nz)!
