@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Haszari"
+permalink: /haszari/
+category: performer
+images: 
+  - title: "Haszari Live"
+    url: "/assets/posts/haszari/SAM_0356.JPG"
+---
+
+[Haszari](http://cartoonbeats.com/haszari) is a Dunedin-based DJ, producer and audiovisual crafter who happens to work in Vogel Street. He's playing an AV DJ set at the Vogel Street Party.
+
