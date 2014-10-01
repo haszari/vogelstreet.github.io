@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Octa Associates"
+permalink: /octa/
+category: sponsor
+class: broccoli
+images: 
+  - url: "/assets/posts/sponsors/octa.jpg"
+---
+
+Thanks [Octa](http://www.octa.co.nz)!
