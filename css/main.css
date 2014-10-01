@@ -199,6 +199,54 @@ a:visited { color: #205caa; }
   margin-bottom: 14px;
 }
 
+.home .row {
+}
+
+.home .column {
+  width: 46%;
+  height: 130px;
+  display: inline-block;
+  padding: 10px;
+  margin: 5px;
+  background-size: cover;
+  background-position: center center;
+}
+
+.home .column h1 {
+  margin: 0;
+  font-size: 130%;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+.home .column h1.dark {
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+.home .column h1.light {
+  color: black;
+  text-shadow: 2px 2px 2px white;
+}
+
+.home .column.streetartists {
+  background-image: url(/assets/posts/pixelpancho/a.jpg);
+}
+.home .column.performers {
+  background-image: url(/assets/category_images/MixerKnobs.JPG);
+}
+.home .column.activities {
+  background-color: crimson;
+}
+.home .column.fashion {
+  background-color: darkorange;
+}
+.home .column.buildings {
+  background-color: slategray;
+}
+.home .column.businesses {
+  background-color: lightskyblue;
+}
+
+
 .rss-subscribe {
   display: none;
 }
