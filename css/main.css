@@ -218,11 +218,11 @@ a:visited { color: #205caa; }
   color: white;
   text-shadow: 2px 2px 2px black;
 }
-.home .column h1.dark {
+.home .column.dark h1 {
   color: white;
   text-shadow: 2px 2px 2px black;
 }
-.home .column h1.light {
+.home .column.light h1 {
   color: black;
   text-shadow: 2px 2px 2px white;
 }
@@ -533,6 +533,10 @@ ul.posts, ol.posts  {
   .site-nav {
     width: 280px;
     font-size: 16px;
+  }
+
+  .home .column {
+    width: 100%;
   }
 
   .footer-col-1 { width: 50%; }
