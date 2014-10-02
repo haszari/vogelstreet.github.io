@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Butterfly Workshop"
 permalink: /butterflyworkshop/
