@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Big Decisions. Big Conversations."
 permalink: /bigdecisionsbigconversations/
