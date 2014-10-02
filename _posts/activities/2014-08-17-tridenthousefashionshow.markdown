@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Trident House Fashion Show"
 permalink: /tridenthouse/
