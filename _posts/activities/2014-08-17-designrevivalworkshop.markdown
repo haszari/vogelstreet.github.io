@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title:  "Design Revival Workshop"
 permalink: /designrevivalworkshop/
