@@ -243,14 +243,17 @@ a:visited { color: #205caa; }
   background-color: crimson;
   background-image: url(/assets/posts/activities/ledthrowies.jpg);
 }
+.home .column.businesses {
+  background-color: lightskyblue;
+  background-image: url(/assets/posts/businesses/winefreedom.jpg);
+}
+
+/* unused at present */
 .home .column.fashion {
   background-color: darkorange;
 }
 .home .column.buildings {
   background-color: slategray;
-}
-.home .column.businesses {
-  background-color: lightskyblue;
 }
 
 
