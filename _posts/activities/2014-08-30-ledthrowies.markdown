@@ -4,7 +4,7 @@ title:  "LED Throwies"
 permalink: /throwies/
 category: activity
 images: 
-  - url: "/assets/posts/ledthrowies.jpg"
+  - url: "/assets/posts/activities/ledthrowies.jpg"
 ---
 
 Learn how to make your own LED light art by putting together an [LED throwie](http://www.instructables.com/id/LED-Throwies/) with the team from [Dspace](/dspace), the Dunedin Makerspace. 
