@@ -232,13 +232,16 @@ a:visited { color: #205caa; }
 }
 
 .home .column.streetartists {
+  background-color: darkmagenta;
   background-image: url(/assets/posts/pixelpancho/a.jpg);
 }
 .home .column.performers {
+  background-color: darkgreen;
   background-image: url(/assets/category_images/MixerKnobs.JPG);
 }
 .home .column.activities {
   background-color: crimson;
+  background-image: url(/assets/posts/activities/ledthrowies.jpg);
 }
 .home .column.fashion {
   background-color: darkorange;
