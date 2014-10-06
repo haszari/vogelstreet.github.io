@@ -4,7 +4,7 @@ title:  "Children's Stencil Art Workshop"
 permalink: /stencilartworkshop/
 category: activity
 images: 
-  - url: "/assets/posts/"
+  - url: "/assets/posts/activities/stencilart.jpg"
 ---
 
 A stencil art workshop especially designed for children. Workshop participants will learn the basic techniques and processes used by street artists by creating their own stencil artwork. 
