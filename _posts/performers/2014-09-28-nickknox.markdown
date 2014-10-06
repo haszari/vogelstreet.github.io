@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Nick Knox"
+permalink: /nickknox/
+category: performer
+images: 
+  - url: "/assets/posts/performers/nickknox.jpg"
+---
+
+[Nick Knox](https://www.facebook.com/nicknoxmusic) is a composer, pianist and singer from Dunedin, NZ. He is fascinated by, and driven to explore, aspects of Divinity, Spirituality and Transcendence through music. His work is at once soulful, gruff and delicate; often laced with baroque sensibilities.
