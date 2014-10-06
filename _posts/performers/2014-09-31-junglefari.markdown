@@ -7,4 +7,6 @@ images:
   - url: "/assets/posts/performers/junglefari.jpg"
 ---
 
-Junglefari is Dunedin's premier dub selector. Listen in to his Roots & Culture show 5-7 pm Saturdays on [Radio 1 91 FM](http://www.mixcloud.com/tag/junglefari/). Or catch him on tour with international sound systems. Generally he can be found digging through the crates to bring you exclusive reggae vibes.
+Junglefari is Dunedin's premier dub selector. Listen in to his Roots & Culture show 5-7 pm Saturdays on [Radio 1 91 FM](http://www.mixcloud.com/tag/junglefari/). Or catch him on tour with international sound systems. 
+
+Generally he can be found digging through the crates to bring you exclusive reggae vibes.
