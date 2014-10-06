@@ -8,4 +8,4 @@ images:
   - url: "/assets/posts/sponsors/carpetpluslogo.jpg"
 ---
 
-Thanks [Curtain Plus](http://www.curtainplus.co.nz)!
+Thanks Carpet Plus!
