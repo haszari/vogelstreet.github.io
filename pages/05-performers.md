@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Musicians, DJs & Performances
+title: Music & Performances
 permalink: /performers/
 primaryMenu: true
 ---
