@@ -8,13 +8,33 @@ layout: default
 
   {% include vogel_street_party.html %}
 
+  <div class="row">
+
+	  <a class="column activities dark" href="/activities">
+		  <h1>Activities</h1>
+	  </a>
+
+	  <a class="column performers dark" href="/performers">
+		  <h1>Music &amp; Performances</h1>
+	  </a>
+
+  </div>
+
+  <div class="row">
+
+	  <a class="column streetartists dark" href="/artists">
+		  <h1>Street Artists</h1>
+	  </a>
+
+	  <a class="column businesses light" href="/businesses_tours">
+		  <h1>Businesses &amp; Building Tours</h1>
+	  </a>
+
+  </div>
+
   <h1>Sponsors</h1>
 
   {% include sponsor_posts.html %}
-
-  <h1>Street Artists</h1>
-
-  {% include street_art_posts.html %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
