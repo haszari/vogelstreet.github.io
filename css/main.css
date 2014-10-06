@@ -32,6 +32,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #030509;
 }
 
+p {
+  margin-bottom: 14px;
+}
+
 a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
 a:visited { color: #205caa; }
