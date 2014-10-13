@@ -1,5 +1,4 @@
 ---
-published: false
 layout: post
 title:  "Immersion Marketing"
 permalink: /immersionmarketing/
