@@ -5,7 +5,7 @@ permalink: /haszari/
 category: performer
 images: 
   - url: "/assets/posts/performers/haszari_circlesclock.png"
-  - url: "/assets/posts/performers/haszari_pacman.jpg"
+  - url: "/assets/posts/performers/haszari_pacman.png"
   - url: "/assets/posts/performers/haszari_live.jpg"
 ---
 
