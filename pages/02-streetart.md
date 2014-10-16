@@ -13,7 +13,7 @@ The Dunedin Street Art Festival will create a unique, world-class street trail t
 
 Keep up to date with artist announcements by following the [Dunedin Street Art](https://www.facebook.com/dunedinstreetart) facebook page.
 
-<iframe src="//player.vimeo.com/video/109182186" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/109182186">Dunedin Street Art</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<iframe src="//player.vimeo.com/video/109182186" width="750" height="422" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/109182186">Dunedin Street Art</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Artists
 
