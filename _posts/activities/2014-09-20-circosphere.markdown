@@ -4,9 +4,9 @@ title:  "Circosphere"
 permalink: /circosphere/
 category: activity
 images: 
-  - url: "/assets/posts/activities/circusphere_3.jpg"
-  - url: "/assets/posts/activities/circusphere_1.jpg"
-  - url: "/assets/posts/activities/circusphere_2.jpg"
+  - url: "/assets/posts/activities/circosphere_3.jpg"
+  - url: "/assets/posts/activities/circosphere_1.jpg"
+  - url: "/assets/posts/activities/circosphere_2.jpg"
 ---
 
 __Come down and join the circus!__ 
