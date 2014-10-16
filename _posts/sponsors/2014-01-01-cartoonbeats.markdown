@@ -5,7 +5,7 @@ permalink: /cartoonbeats/
 category: sponsor
 class: dill
 images: 
-  - url: "/assets/posts/cartoonbeats.png"
+  - url: "/assets/posts/sponsors/cartoonbeats.png"
 ---
 
-Thanks [cartoonbeats](http://cartoonbeats.com)!
+Thanks [Cartoon Beats](http://cartoonbeats.com)!
