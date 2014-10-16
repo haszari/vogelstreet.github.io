@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Circosphere"
-permalink: /butterflyworkshop/
+permalink: /circosphere/
 category: activity
 images: 
   - url: "/assets/posts/activities/circusphere_3.jpg"
