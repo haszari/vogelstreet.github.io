@@ -7,6 +7,12 @@ images:
   - url: "/assets/posts/"
 ---
 
-Dunedin's Sustainable Fashion Hub will debut on the street fashion from in house and local designers. Vogel Street will be transformed into a temporary catwalk and showcase unique local and artisan work from Vogel and Bond Street's Trident House. 
+Dunedin's _Sustainable Fashion Hub_ will debut on-the-street fashion from in-house and other local designers. Vogel Street will be transformed into a temporary catwalk to showcase artisan work from Vogel Street's Trident House. 
 
-Featuring designers __Senorita AweSUMO__, __Ulala__, __Hannah Louise__, with more to be announced soon.
+Featuring designers: 
+- Senorita AweSUMO
+- Melanie Child
+- Beau
+- Gemma
+- Ulala
+- Hannah Louise
