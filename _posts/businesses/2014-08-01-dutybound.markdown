@@ -4,7 +4,7 @@ title:  "Dutybound"
 permalink: /dutybound/
 category: business
 images: 
-  - url: "/assets/posts/dutybound_books.jpg"
+  - url: "/assets/posts/businesses/dutybound_books.jpg"
 ---
 
 [Dutybound](http://dutybounddunedin.wordpress.com) is the premises and workshop of David Stedman, a bookbinder, designer and restorer of books and print-related materials.
