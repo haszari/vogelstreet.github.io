@@ -24,9 +24,13 @@
 
       <div class="trigger">
       <!-- auto-generate menu-->
+      <a class="page-link" href="{{ site.baseurl }}">Vogel Street Party 2015</a>
+      <a class="page-link" href="{{ site.baseurl }}">Literature &amp; Light</a>
+      <!--
         {% for page in site.pages | sort:'name' %}
           {% if page.primaryMenu %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
         {% endfor %}
+      -->
       
       <!-- static menu
         <a class="page-link primary" href="{{ '/party' | prepend: site.baseurl }}">Vogel Street Party</a>
