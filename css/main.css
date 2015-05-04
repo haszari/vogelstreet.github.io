@@ -194,8 +194,7 @@ a:visited { color: #205caa; }
   background-color: #fff;
 }
 
-
-/* Home styles */
+/* teaser home page styles */
 /* ----------------------------------------------------------*/
 
 .home.teaser {
@@ -203,6 +202,12 @@ a:visited { color: #205caa; }
   padding-top: 40px;
   padding-bottom: 60px;
 }
+.facebook-link {
+  float: right;
+}
+
+/* Home styles */
+/* ----------------------------------------------------------*/
 
 .home h1 { 
   margin-top: 20px;
