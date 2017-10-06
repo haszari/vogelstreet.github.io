@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:10/6/2017, 10:53:07 PM
+#ver:10/6/2017, 10:56:58 PM
 #plugin:4.8.3
 
 CACHE:
@@ -51,6 +51,8 @@ CACHE:
 ../bundle.js
 ../styles.css
 ../
+../music/
+../food/
 ../sponsors/
 ../contact/
 ../appcache/manifest.appcache
