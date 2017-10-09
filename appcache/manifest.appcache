@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#ver:10/8/2017, 9:41:07 PM
+#ver:10/9/2017, 7:54:07 PM
 #plugin:4.8.3
 
 CACHE:
@@ -55,8 +55,6 @@ CACHE:
 ../food/
 ../sponsors/
 ../contact/
-../appcache/manifest.appcache
-../appcache/manifest.html
 
 NETWORK:
 *
